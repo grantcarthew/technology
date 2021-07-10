@@ -1,2 +1,3 @@
-# technology
-All encompassing technology reference
+# Technology
+
+Technology reference repository
